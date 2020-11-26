@@ -5,8 +5,7 @@ from collections import Counter
 import altair as alt 
 from PIL import Image
 import os
-from pathlib import Path
-import seaborn as sns 
+from pathlib import Path 
 
 
 
