@@ -153,7 +153,6 @@ LunarCalendar==0.0.9
 lxml @ file:///C:/ci/lxml_1594822774489/work
 Markdown==3.2.2
 MarkupSafe==1.1.1
-matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
 matplotlib==3.2.2
 mccabe==0.6.1
 menuinst==1.4.16
