@@ -1,8 +1,6 @@
 # Data Viz Pkgs
 import pandas as pd
-import matplotlib.pyplot as plt 
-import matplotlib 
-matplotlib.use('Agg')
+
 from collections import Counter
 import altair as alt 
 from PIL import Image
@@ -32,6 +30,9 @@ from spacy import displacy
 import nltk
 #nltk.download('punkt') 
 #from gensim.summarization import summarize # textrank algorithm
+import matplotlib.pyplot as plt 
+import matplotlib 
+matplotlib.use('Agg')
 import en_core_web_sm
 nlp = en_core_web_sm.load()
 
