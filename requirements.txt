@@ -22,7 +22,6 @@ beautifulsoup4==4.9.1
 bkcharts==0.2
 bleach==3.1.5
 blinker==1.4
-blis @ file:///D:/bld/cython-blis_1606131193033/work
 bokeh @ file:///C:/ci/bokeh_1593178781838/work
 boto==2.49.0
 boto3==1.14.45
