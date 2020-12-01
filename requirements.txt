@@ -113,7 +113,6 @@ kiwisolver==1.2.0
 korean-lunar-calendar==0.2.1
 lazy-object-proxy==1.4.3
 libarchive-c==2.9
-llvmlite==0.33.0+1.g022ab0f
 locket==0.2.0
 LunarCalendar==0.0.9
 Markdown==3.2.2
