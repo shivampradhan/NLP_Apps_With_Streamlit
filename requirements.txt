@@ -186,7 +186,6 @@ pyflakes==2.2.0
 Pygments==2.6.1
 pylint==2.6.0
 PyMeeus==0.3.7
-pyodbc===4.0.0-unsupported
 pyparsing==2.4.7
 PyPDF2==1.26.0
 pyppeteer==0.2.2
