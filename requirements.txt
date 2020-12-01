@@ -34,7 +34,6 @@ cffi==1.14.0
 chardet==3.0.4
 chart-studio==1.1.0
 click==7.1.2
-clyent==1.2.2
 cmake==3.18.4.post1
 cmdstanpy==0.9.5
 colorama==0.4.3
