@@ -1,8 +1,6 @@
 absl-py==0.10.0
 alabaster==0.7.12
 altair==4.1.0
-anaconda-navigator==1.9.12
-anaconda-project==0.8.3
 appdirs==1.4.4
 argh==0.26.2
 arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1600909298598/work
