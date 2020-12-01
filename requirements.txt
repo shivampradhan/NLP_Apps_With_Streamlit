@@ -8,7 +8,6 @@ astroid==2.4.2
 astropy==4.0.1.post1
 astunparse==1.6.3
 atomicwrites==1.4.0
-attrs==19.3.0
 autopep8 @ file:///tmp/build/80754af9/autopep8_1592412889138/work
 autoviz==0.0.68
 Babel==2.8.0
