@@ -10,7 +10,7 @@ altair == 4.1.0
 emoji == 0.6.0
 
 # C:\Users\spradhan\Downloads\nlp_box\app.py: 35
-en_core_web_sm == 2.3.1
+#en_core_web_sm == 2.3.1
 
 # C:\Users\spradhan\Downloads\nlp_box\app.py: 26,27,28
 gensim == 3.8.3
